@@ -28,10 +28,6 @@ npm run dev
 ```
 4. Open `http://localhost:3000` in your browser.
 
-## Deployment
-- The app can be deployed to **Vercel** or **Netlify** for free.
-- Ideal for small personal projects.
-
 ## Customization
 - Tailwind classes and inline styles define colors, spacing, and typography.
 - Dark mode colors are set in `bgClass`, `cardClass`, and ORP box styles; you can tweak these to adjust shades and appearance.
