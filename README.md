@@ -16,7 +16,7 @@ A lightweight React web app for Rapid Serial Visual Presentation (RSVP) reading.
 ## Installation
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/rsvp-speed-reader.git
+git clone https://github.com/claycaleb/rsvp-speed-reader.git
 ```
 2. Install dependencies:
 ```bash
