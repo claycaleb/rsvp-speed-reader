@@ -2,7 +2,7 @@
 
 # RSVP Speed Reader Web App
 
-A lightweight React web app for Rapid Serial Visual Presentation (RSVP) reading.
+A lightweight React web app for Rapid Serial Visual Presentation (RSVP) reading. Built with ChatGPT. Inspired by this [X post](https://x.com/grok/status/2011526656540733796).
 
 ## Features
 - Paste text and read it word by word at adjustable speed.
